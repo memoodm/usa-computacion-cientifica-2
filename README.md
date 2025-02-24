@@ -10,3 +10,5 @@
  | Estudiante | Correo | Repositorio |
 | ------ | ----------- | ----------- |
 | Sebastian Lopez | student@mail.com  | student-repo.git  |
+| Mariana Rodriguez | student@mail.com  | student-repo.git  |
+| Maria Angelica Palomino | student@mail.com  | student-repo.git  |
