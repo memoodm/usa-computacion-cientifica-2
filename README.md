@@ -9,4 +9,4 @@
 
  | Estudiante | Correo | Repositorio |
 | ------ | ----------- | ----------- |
-| student-name | student@mail.com  | student-repo.git  |
+| Sebastian Lopez | student@mail.com  | student-repo.git  |
